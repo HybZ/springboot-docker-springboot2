@@ -1,0 +1,902 @@
+<data_list>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 08:00:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>4G Data</technology>
+        <counts>91</counts>
+        <zscore>1.04888422288297</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 20:40:00</timestamp>
+        <school>RPacis</school>
+        <technology>2G Data</technology>
+        <counts>93</counts>
+        <zscore>0.893101147403962</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-29</date>
+        <timestamp>2018-04-29 14:10:00</timestamp>
+        <school>EOS</school>
+        <technology>2G Data</technology>
+        <counts>181</counts>
+        <zscore>0.556994412417819</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 05:10:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>4G Data</technology>
+        <counts>49</counts>
+        <zscore>0.930185507866385</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-25</date>
+        <timestamp>2018-04-25 07:30:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>4G Data</technology>
+        <counts>90</counts>
+        <zscore>1.04390519882527</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-14</date>
+        <timestamp>2018-05-14 04:00:00</timestamp>
+        <school>EOS</school>
+        <technology>SMS</technology>
+        <counts>1</counts>
+        <zscore>0.88285144058652</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-02</date>
+        <timestamp>2018-05-02 06:10:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>4G Data</technology>
+        <counts>56</counts>
+        <zscore>0.397889364584338</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 02:30:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Call</technology>
+        <counts>10</counts>
+        <zscore>0.770681705676776</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 02:30:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Signalisation</technology>
+        <counts>7</counts>
+        <zscore>0.448175001687659</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-25</date>
+        <timestamp>2018-04-25 10:30:00</timestamp>
+        <school>EOS</school>
+        <technology>4G Data</technology>
+        <counts>176</counts>
+        <zscore>0.538559009009319</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-22</date>
+        <timestamp>2018-04-22 13:10:00</timestamp>
+        <school>RPacis</school>
+        <technology>Call</technology>
+        <counts>19</counts>
+        <zscore>0.845031275442597</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-28</date>
+        <timestamp>2018-04-28 20:50:00</timestamp>
+        <school>RPacis</school>
+        <technology>Signalisation</technology>
+        <counts>7</counts>
+        <zscore>0.772334943596686</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-14</date>
+        <timestamp>2018-05-14 04:00:00</timestamp>
+        <school>RPacis</school>
+        <technology>3G Data</technology>
+        <counts>17</counts>
+        <zscore>1.02999361274966</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-26</date>
+        <timestamp>2018-04-26 20:40:00</timestamp>
+        <school>RPacis</school>
+        <technology>2G Data</technology>
+        <counts>81</counts>
+        <zscore>0.424408706635144</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 03:20:00</timestamp>
+        <school>EOS</school>
+        <technology>3G Data</technology>
+        <counts>26</counts>
+        <zscore>0.278555769101377</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-22</date>
+        <timestamp>2018-04-22 15:50:00</timestamp>
+        <school>RPacis</school>
+        <technology>2G Data</technology>
+        <counts>101</counts>
+        <zscore>1.0078070306138</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-04</date>
+        <timestamp>2018-05-04 17:50:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>2G Data</technology>
+        <counts>6</counts>
+        <zscore>2.67016557475679</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-05-14</date>
+        <timestamp>2018-05-14 04:00:00</timestamp>
+        <school>RPacis</school>
+        <technology>SMS</technology>
+        <counts>2</counts>
+        <zscore>0.37678360102635</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 08:00:00</timestamp>
+        <school>EOS</school>
+        <technology>Call</technology>
+        <counts>39</counts>
+        <zscore>2.30255659654369</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 03:10:00</timestamp>
+        <school>RPacis</school>
+        <technology>Signalisation</technology>
+        <counts>3</counts>
+        <zscore>1.15376377905369</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 05:10:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Call</technology>
+        <counts>8</counts>
+        <zscore>0.0241114033167694</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-15</date>
+        <timestamp>2018-05-15 16:40:00</timestamp>
+        <school>RPacis</school>
+        <technology>Call</technology>
+        <counts>45</counts>
+        <zscore>6.90574530188608</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-04-22</date>
+        <timestamp>2018-04-22 15:50:00</timestamp>
+        <school>EOS</school>
+        <technology>2G Data</technology>
+        <counts>182</counts>
+        <zscore>0.667378487700124</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-20</date>
+        <timestamp>2018-04-20 11:40:00</timestamp>
+        <school>RPacis</school>
+        <technology>Signalisation</technology>
+        <counts>7</counts>
+        <zscore>0.680452830875052</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-26</date>
+        <timestamp>2018-04-26 20:40:00</timestamp>
+        <school>RPacis</school>
+        <technology>3G Data</technology>
+        <counts>28</counts>
+        <zscore>0.792555973451719</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-15</date>
+        <timestamp>2018-05-15 16:40:00</timestamp>
+        <school>RPacis</school>
+        <technology>3G Data</technology>
+        <counts>28</counts>
+        <zscore>0.394411874990631</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-14</date>
+        <timestamp>2018-05-14 04:00:00</timestamp>
+        <school>RPacis</school>
+        <technology>Location update</technology>
+        <counts>17</counts>
+        <zscore>0.747498076284853</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 03:20:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Call</technology>
+        <counts>2</counts>
+        <zscore>1.36723642135131</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-05</date>
+        <timestamp>2018-05-05 12:50:00</timestamp>
+        <school>EOS</school>
+        <technology>Call</technology>
+        <counts>39</counts>
+        <zscore>0.888456023565489</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-09</date>
+        <timestamp>2018-05-09 13:30:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>SMS</technology>
+        <counts>13</counts>
+        <zscore>0.883196070285102</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 22:00:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>2G Data</technology>
+        <counts>105</counts>
+        <zscore>0.693361394389911</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 03:20:00</timestamp>
+        <school>EOS</school>
+        <technology>3G Data</technology>
+        <counts>26</counts>
+        <zscore>0.278555769101377</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 10:40:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>2G Data</technology>
+        <counts>5</counts>
+        <zscore>2.46648811649401</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-04-20</date>
+        <timestamp>2018-04-20 22:20:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Signalisation</technology>
+        <counts>1</counts>
+        <zscore>7.9465472629095</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-04-22</date>
+        <timestamp>2018-04-22 13:10:00</timestamp>
+        <school>EOS</school>
+        <technology>Signalisation</technology>
+        <counts>14</counts>
+        <zscore>1.29049701441707</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-25</date>
+        <timestamp>2018-04-25 04:50:00</timestamp>
+        <school>EOS</school>
+        <technology>Location update</technology>
+        <counts>29</counts>
+        <zscore>0.588446152412287</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-24</date>
+        <timestamp>2018-04-24 21:20:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>2G Data</technology>
+        <counts>108</counts>
+        <zscore>0.627852374073455</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-25</date>
+        <timestamp>2018-04-25 04:50:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Location update</technology>
+        <counts>17</counts>
+        <zscore>0.582229056911463</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-15</date>
+        <timestamp>2018-05-15 16:50:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Call</technology>
+        <counts>29</counts>
+        <zscore>3.61710955852548</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-05-15</date>
+        <timestamp>2018-05-15 16:50:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>2G Data</technology>
+        <counts>106</counts>
+        <zscore>0.354060889030955</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 02:30:00</timestamp>
+        <school>RPacis</school>
+        <technology>4G Data</technology>
+        <counts>47</counts>
+        <zscore>0.781629112856025</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 20:40:00</timestamp>
+        <school>EOS</school>
+        <technology>2G Data</technology>
+        <counts>201</counts>
+        <zscore>1.01912886436857</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-04</date>
+        <timestamp>2018-05-04 17:50:00</timestamp>
+        <school>EOS</school>
+        <technology>4G Data</technology>
+        <counts>21</counts>
+        <zscore>5.6830844959073</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 10:40:00</timestamp>
+        <school>RPacis</school>
+        <technology>SMS</technology>
+        <counts>12</counts>
+        <zscore>1.9171731884731</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-03</date>
+        <timestamp>2018-05-03 18:40:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>SMS</technology>
+        <counts>14</counts>
+        <zscore>0.0721849833379499</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-05</date>
+        <timestamp>2018-05-05 12:50:00</timestamp>
+        <school>RPacis</school>
+        <technology>2G Data</technology>
+        <counts>99</counts>
+        <zscore>1.21522387888368</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-25</date>
+        <timestamp>2018-04-25 10:30:00</timestamp>
+        <school>EOS</school>
+        <technology>Signalisation</technology>
+        <counts>14</counts>
+        <zscore>0.580755083067317</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 03:20:00</timestamp>
+        <school>EOS</school>
+        <technology>Call</technology>
+        <counts>12</counts>
+        <zscore>0.390419164414163</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-25</date>
+        <timestamp>2018-04-25 07:30:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>2G Data</technology>
+        <counts>101</counts>
+        <zscore>1.48683424871036</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-26</date>
+        <timestamp>2018-04-26 20:40:00</timestamp>
+        <school>EOS</school>
+        <technology>3G Data</technology>
+        <counts>70</counts>
+        <zscore>0.725693765405163</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 03:10:00</timestamp>
+        <school>RPacis</school>
+        <technology>2G Data</technology>
+        <counts>60</counts>
+        <zscore>0.892096012904231</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 05:10:00</timestamp>
+        <school>RPacis</school>
+        <technology>SMS</technology>
+        <counts>1</counts>
+        <zscore>1.08402730933002</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-29</date>
+        <timestamp>2018-04-29 19:00:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>2G Data</technology>
+        <counts>103</counts>
+        <zscore>0.353989299113056</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-22</date>
+        <timestamp>2018-04-22 13:10:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>2G Data</technology>
+        <counts>110</counts>
+        <zscore>0.698378379972559</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 10:40:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>2G Data</technology>
+        <counts>109</counts>
+        <zscore>1.13170754933427</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-20</date>
+        <timestamp>2018-04-20 11:40:00</timestamp>
+        <school>EOS</school>
+        <technology>Signalisation</technology>
+        <counts>14</counts>
+        <zscore>0.817660731566283</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-03</date>
+        <timestamp>2018-05-03 18:40:00</timestamp>
+        <school>EOS</school>
+        <technology>Call</technology>
+        <counts>40</counts>
+        <zscore>0.656278918882695</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-05</date>
+        <timestamp>2018-05-05 08:40:00</timestamp>
+        <school>EOS</school>
+        <technology>4G Data</technology>
+        <counts>169</counts>
+        <zscore>1.22636538285096</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-22</date>
+        <timestamp>2018-04-22 22:00:00</timestamp>
+        <school>EOS</school>
+        <technology>4G Data</technology>
+        <counts>14</counts>
+        <zscore>7.51100528084946</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-04-20</date>
+        <timestamp>2018-04-20 11:40:00</timestamp>
+        <school>EOS</school>
+        <technology>Location update</technology>
+        <counts>29</counts>
+        <zscore>0.396594048631227</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 03:20:00</timestamp>
+        <school>EOS</school>
+        <technology>Location update</technology>
+        <counts>29</counts>
+        <zscore>0.598033426371463</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-15</date>
+        <timestamp>2018-05-15 16:50:00</timestamp>
+        <school>EOS</school>
+        <technology>4G Data</technology>
+        <counts>166</counts>
+        <zscore>0.0645222070820343</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-25</date>
+        <timestamp>2018-04-25 10:30:00</timestamp>
+        <school>RPacis</school>
+        <technology>SMS</technology>
+        <counts>14</counts>
+        <zscore>2.52938408043498</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 22:00:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Location update</technology>
+        <counts>17</counts>
+        <zscore>0.453116943300163</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 03:20:00</timestamp>
+        <school>EOS</school>
+        <technology>SMS</technology>
+        <counts>1</counts>
+        <zscore>0.965770044538343</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-15</date>
+        <timestamp>2018-05-15 16:40:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>3G Data</technology>
+        <counts>58</counts>
+        <zscore>0.124527279242846</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-24</date>
+        <timestamp>2018-04-24 08:00:00</timestamp>
+        <school>RPacis</school>
+        <technology>2G Data</technology>
+        <counts>4</counts>
+        <zscore>2.112590530157</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 03:10:00</timestamp>
+        <school>EOS</school>
+        <technology>4G Data</technology>
+        <counts>92</counts>
+        <zscore>0.75422896318392</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 14:20:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>3G Data</technology>
+        <counts>54</counts>
+        <zscore>0.0281062111261113</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-28</date>
+        <timestamp>2018-04-28 20:50:00</timestamp>
+        <school>RPacis</school>
+        <technology>Call</technology>
+        <counts>19</counts>
+        <zscore>0.723687950523339</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-03</date>
+        <timestamp>2018-05-03 18:40:00</timestamp>
+        <school>RPacis</school>
+        <technology>2G Data</technology>
+        <counts>95</counts>
+        <zscore>0.773873781186347</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 08:00:00</timestamp>
+        <school>RPacis</school>
+        <technology>4G Data</technology>
+        <counts>75</counts>
+        <zscore>1.65827863749993</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 08:00:00</timestamp>
+        <school>EOS</school>
+        <technology>3G Data</technology>
+        <counts>76</counts>
+        <zscore>2.41771363143872</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 05:20:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Call</technology>
+        <counts>9</counts>
+        <zscore>0.54581028893134</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-24</date>
+        <timestamp>2018-04-24 21:20:00</timestamp>
+        <school>RPacis</school>
+        <technology>SMS</technology>
+        <counts>9</counts>
+        <zscore>0.123461703816649</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 08:20:00</timestamp>
+        <school>EOS</school>
+        <technology>3G Data</technology>
+        <counts>50</counts>
+        <zscore>1.37642417622644</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 10:40:00</timestamp>
+        <school>EOS</school>
+        <technology>Location update</technology>
+        <counts>2</counts>
+        <zscore>3.77648226197501</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 03:20:00</timestamp>
+        <school>RPacis</school>
+        <technology>Signalisation</technology>
+        <counts>1</counts>
+        <zscore>0.632498434874808</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-26</date>
+        <timestamp>2018-04-26 20:40:00</timestamp>
+        <school>RPacis</school>
+        <technology>Signalisation</technology>
+        <counts>7</counts>
+        <zscore>0.838988199290745</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 22:00:00</timestamp>
+        <school>RPacis</school>
+        <technology>Location update</technology>
+        <counts>21</counts>
+        <zscore>1.72822463633285</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-24</date>
+        <timestamp>2018-04-24 22:00:00</timestamp>
+        <school>RPacis</school>
+        <technology>Signalisation</technology>
+        <counts>6</counts>
+        <zscore>0.228081902255499</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-10</date>
+        <timestamp>2018-05-10 08:30:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Call</technology>
+        <counts>14</counts>
+        <zscore>0.113454021851378</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-20</date>
+        <timestamp>2018-04-20 10:40:00</timestamp>
+        <school>RPacis</school>
+        <technology>2G Data</technology>
+        <counts>104</counts>
+        <zscore>1.2845030842626</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-09</date>
+        <timestamp>2018-05-09 13:30:00</timestamp>
+        <school>RPacis</school>
+        <technology>Signalisation</technology>
+        <counts>7</counts>
+        <zscore>0.670843081455862</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-29</date>
+        <timestamp>2018-04-29 19:00:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>4G Data</technology>
+        <counts>90</counts>
+        <zscore>0.470866835101228</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 05:20:00</timestamp>
+        <school>RPacis</school>
+        <technology>4G Data</technology>
+        <counts>45</counts>
+        <zscore>0.166550148023511</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 14:20:00</timestamp>
+        <school>RPacis</school>
+        <technology>Call</technology>
+        <counts>17</counts>
+        <zscore>0.373512636052787</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-22</date>
+        <timestamp>2018-04-22 13:10:00</timestamp>
+        <school>EOS</school>
+        <technology>4G Data</technology>
+        <counts>174</counts>
+        <zscore>0.408056295905011</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-25</date>
+        <timestamp>2018-04-25 04:50:00</timestamp>
+        <school>RPacis</school>
+        <technology>Signalisation</technology>
+        <counts>2</counts>
+        <zscore>1.33351968434086</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 12:20:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>SMS</technology>
+        <counts>14</counts>
+        <zscore>1.10947895035887</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 08:20:00</timestamp>
+        <school>RPacis</school>
+        <technology>SMS</technology>
+        <counts>3</counts>
+        <zscore>0.162351873121183</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-01</date>
+        <timestamp>2018-05-01 08:00:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>SMS</technology>
+        <counts>9</counts>
+        <zscore>0.674870580531445</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 08:20:00</timestamp>
+        <school>RPacis</school>
+        <technology>Call</technology>
+        <counts>13</counts>
+        <zscore>1.95479642169698</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-03</date>
+        <timestamp>2018-05-03 18:40:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Signalisation</technology>
+        <counts>11</counts>
+        <zscore>0.851377747598775</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-20</date>
+        <timestamp>2018-04-20 10:40:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>SMS</technology>
+        <counts>11</counts>
+        <zscore>1.26723602888443</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-15</date>
+        <timestamp>2018-05-15 16:40:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Call</technology>
+        <counts>18</counts>
+        <zscore>0.037291047374651</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-23</date>
+        <timestamp>2018-04-23 22:00:00</timestamp>
+        <school>EOS</school>
+        <technology>2G Data</technology>
+        <counts>161</counts>
+        <zscore>0.601605838198259</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-04-21</date>
+        <timestamp>2018-04-21 12:20:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Call</technology>
+        <counts>15</counts>
+        <zscore>1.20464639647269</zscore>
+        <outlier>false</outlier>
+    </data>
+    <data>
+        <date>2018-05-15</date>
+        <timestamp>2018-05-15 16:40:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>SMS</technology>
+        <counts>27</counts>
+        <zscore>5.74062244661669</zscore>
+        <outlier>true</outlier>
+    </data>
+    <data>
+        <date>2018-05-15</date>
+        <timestamp>2018-05-15 16:50:00</timestamp>
+        <school>SaintJoseph</school>
+        <technology>Call</technology>
+        <counts>18</counts>
+        <zscore>0.0321878492416062</zscore>
+        <outlier>false</outlier>
+    </data>
+</data_list>

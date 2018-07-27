@@ -1,0 +1,11 @@
+version: '3.3'
+services:
+  application-postgres:
+    container_name: biotope-postgres
+    image: postgres:9.5
+    environment:
+      POSTGRES_DB: application
+      POSTGRES_USER: application
+      POSTGRES_PASSWORD: application
+    ports:
+    - ${PG_PORT:-5432}:5432
